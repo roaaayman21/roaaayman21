@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Senior Developer,<br><br>- 🔭 I’m currently Senior year student.  <br><br>- 📚 I'm currently learning Software Engineering track at Alx-arabia.</p>
+<p align="left">I'm Front-End Developer,<br><br>- 🔭 I’m currently Senior year student.  <br><br>- 📚 I'm currently learning React and  Tailwind CSS.</p>
 
 ###
 
