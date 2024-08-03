@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Front-End Developer,<br><br>- 🔭 I’m currently Senior year student.  <br><br>- 📚 I'm currently learning React and  Tailwind CSS.</p>
+<p align="left">I'm Front-End Developer,<br><br>- 🔭 I’m currently fresh graduate.  <br><br>- 📚 I'm currently learning MEAN Stack.</p>
 
 ###
 
