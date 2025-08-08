@@ -76,9 +76,11 @@ Front-End Developer | Cairo, Egypt
   <img src="https://nirzak-streak-stats.vercel.app/?user=roaaayman21&theme=neon&hide_border=true" alt="GitHub Streak" width="380" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roaaayman21&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="380" />
-</p>
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=roaaayman21&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 
 ---
