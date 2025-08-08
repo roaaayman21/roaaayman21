@@ -7,11 +7,25 @@ Front-End Developer | Cairo, Egypt
 🚀 Experienced in Angular, React, Node.js, and MongoDB.  
 💡 Always exploring new technologies and improving problem-solving skills.
 
-## 🌐 Socials  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roaa_ayman)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/roaaayman_10/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roaa-ayman-a9195022a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roaaaymanelkholy@gmail.com)
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://discord.gg/roaa_ayman" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/roaaayman_10/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/roaa-ayman-a9195022a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:roaaaymanelkholy@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="30" />
+  </a>
+</p>
 
 ---
 
@@ -50,10 +64,21 @@ Front-End Developer | Cairo, Egypt
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=roaaayman21&theme=neon&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=roaaayman21&theme=neon&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roaaayman21&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roaaayman21&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaaayman21&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="260" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=roaaayman21&theme=neon&hide_border=true" alt="GitHub Streak" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roaaayman21&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=roaaayman21&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
